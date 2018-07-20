@@ -12,18 +12,31 @@
 + Place some files in this, say test.c
 ##Commands
 		`mkdir hello
+		
 		`cd hello
+		
 		`git init
+		
 		`git add test.c
+		
 		`git commit -m "My first commit"
+		
 		`#create a remote repository on github (any other provider)
+		
 		`git remote add https://github.com/xxxx/hello-world
+		
 		`git push -u origin master
-+Adding further files
+		
+##Adding further files
+
 		`git add hello.c
+		
 		`git commit  "adding hello.c"
+		
 		`git push origin master
+		
 ## Activity Time:- 
+
 + Signup for github 
 + Create a first repo,say hello-world
 + Install any git software,e.g.      gitforwindows.org
