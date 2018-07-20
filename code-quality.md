@@ -18,11 +18,10 @@
 	+ Driving Modes - PRND
 	+ Turn Indicators
 
-## Weather example(Ref):- 
-+ [https://github.com/rajeshsola/weather-sample](https://github.com/rajeshsola/weather-sample)
-
 + Cppcheck, current version: 1.84
-
 + CodeBlocks for C/C++ development, cppcheck plugin
 + Map CodeBlocks with cppcheck plugin
 + Code can be hosted on github for submission purpose
+
+## Weather example(Ref):- 
++ [https://github.com/rajeshsola/weather-sample](https://github.com/rajeshsola/weather-sample)
