@@ -12,29 +12,29 @@
 + Place some files in this, say test.c
 ##Commands
 		
-	`mkdir hello
+		mkdir hello
 	
-	`cd hello
+		cd hello
 		
-	`git init
+		git init
 		
-	`git add test.c
+		git add test.c
 	
-	`git commit -m "My first commit"
+		git commit -m "My first commit"
 		
-	`#create a remote repository on github (any other provider)
+		#create a remote repository on github (any other provider)
 		
-	`git remote add https://github.com/xxxx/hello-world
+		git remote add https://github.com/xxxx/hello-world
 		
-	`git push -u origin master
+		git push -u origin master
 		
 ##Adding further files
 
-	git add hello.c
+		git add hello.c
 		
-	git commit  "adding hello.c"
+		git commit  "adding hello.c"
 	
-	git push origin master
+		git push origin master
 		
 ## Activity Time:- 
 
