@@ -11,29 +11,30 @@
 + Created and switched to clean dir
 + Place some files in this, say test.c
 ##Commands
-		`mkdir hello
 		
-		`cd hello
+		mkdir hello
 		
-		`git init
+		cd hello
 		
-		`git add test.c
+		git init
 		
-		`git commit -m "My first commit"
+		git add test.c
 		
-		`#create a remote repository on github (any other provider)
+		git commit -m "My first commit"
 		
-		`git remote add https://github.com/xxxx/hello-world
+		#create a remote repository on github (any other provider)
 		
-		`git push -u origin master
+		git remote add https://github.com/xxxx/hello-world
+		
+		git push -u origin master
 		
 ##Adding further files
 
-		`git add hello.c
+		git add hello.c
 		
-		`git commit  "adding hello.c"
+		git commit  "adding hello.c"
 		
-		`git push origin master
+		git push origin master
 		
 ## Activity Time:- 
 
