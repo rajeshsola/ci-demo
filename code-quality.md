@@ -20,12 +20,12 @@
 
 ## Instrument Cluster (programming purpose):-
 
-	+ Speedometer
+	Speedometer
 	
-	+ Tachometer (rpm)
+	Tachometer (rpm)
 	
-	+ Fuel Indicators
+	Fuel Indicators
 	
-	+ Driving Modes - PRND
+	Driving Modes - PRND
 	
-	+ Turn Indicators
+	Turn Indicators
