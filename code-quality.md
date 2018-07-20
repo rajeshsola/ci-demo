@@ -10,14 +10,6 @@
 + Tools to ensure coding standards -- static analyzers -- conformity
 + Compiler warnings -- primary analysis(very basic)
 + Compilers:- gcc/g++, MingW gcc, visual studio etc.
-
-##Instrument Cluster (programming purpose):-
-	+ Speedometer
-	+ Tachometer (rpm)
-	+ Fuel Indicators
-	+ Driving Modes - PRND
-	+ Turn Indicators
-
 + Cppcheck, current version: 1.84
 + CodeBlocks for C/C++ development, cppcheck plugin
 + Map CodeBlocks with cppcheck plugin
@@ -25,3 +17,15 @@
 
 ## Weather example(Ref):- 
 + [https://github.com/rajeshsola/weather-sample](https://github.com/rajeshsola/weather-sample)
+
+## Instrument Cluster (programming purpose):-
+
+	+ Speedometer
+	
+	+ Tachometer (rpm)
+	
+	+ Fuel Indicators
+	
+	+ Driving Modes - PRND
+	
+	+ Turn Indicators
